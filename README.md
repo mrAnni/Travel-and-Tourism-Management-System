@@ -29,8 +29,7 @@ JDBC: MySQL Connector
 
 Clone the repository:
 
-git clone https://github.com/your-username/Travel-and-Tourism-Management-System.git
-
+git clone https://github.com/mrAnni/Travel-and-Tourism-Management-System.git
 
 Import the project into NetBeans/Eclipse.
 
